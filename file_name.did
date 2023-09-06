@@ -1,1 +1,1 @@
-{"controller":["owner_public_key","holder_public_key"],"did":"did:company_name:owner_pk:holder_pk","owner":"owner_public_key","holder":"holder_public_key","url":"file_name.document","pdfURL":"example.com"}
+{"controller":["owner_public_key","holder_public_key"],"did":"did:company_name:owner_pk:holder_pk","owner":"owner_public_key","holder":"holder_public_key","url":"file_name.document","pdfURL":"example2.com"}
